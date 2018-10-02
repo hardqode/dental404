@@ -11,6 +11,10 @@
     background-size: cover;
     display: flex;
 }
+.block.lazy {
+    background-image: none;
+    background-color: #F1F1FA;
+}
 .block .bg{
     position: absolute;
     width: 100%;
